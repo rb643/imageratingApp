@@ -1,0 +1,1 @@
+export const getCurrentImage = state => state.images.imageFiles[state.images.imageIndex];
